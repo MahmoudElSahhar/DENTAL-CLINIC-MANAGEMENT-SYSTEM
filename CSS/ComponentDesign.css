@@ -1,0 +1,139 @@
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/01/08/73/85/240_F_108738548_APV041nyY7usjrh15iQH22x8yEY7PzOP.jpg");
+}
+
+* {box-sizing: border-box}
+
+.sidenav {
+    height: 100%;
+    width: 190px;
+    position: fixed;
+    background-color: #111;
+    padding-top: 30px;
+}
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+.container {
+    padding-left: 170px;
+    width: 100%;
+}
+.table {
+    font-size: 15px;
+}
+#addBtn {
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: DarkGreen;
+    font-style: bold;
+    font-size: 20px;
+    color: #f2f2f2;
+}
+#addBtn:hover {
+    background-color: #f2f2f2;
+    color: DarkGreen;
+    font-style: bold;
+    font-size: 20px;
+    border: 2px solid DarkGreen;
+}
+h3{
+    color: white;
+    font-size:30px;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    background-color: #111;
+    color: white;
+    padding-bottom: 7px;
+}
+input[type="button"] {
+    width: 70%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: darkred;
+    font-style: bold;
+    font-size: 20px;
+    color: #f2f2f2;
+}
+input[type="button"]:hover {
+    background-color: #f2f2f2;
+    color: darkred;
+    font-style: bold;
+    font-size: 20px;
+    border: 2px solid darkred;
+}
+table {
+    text-align: center;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+}
+input[type="submit"] {
+    width: 70%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: Teal;
+    font-style: bold;
+    font-size: 20px;
+    color: #f2f2f2;
+}
+input[type="submit"]:hover {
+    background-color: #f2f2f2;
+    color: Teal;
+    font-style: bold;
+    font-size: 20px;
+    border: 2px solid Teal;
+}
+#cancel {
+    background-color: darkred;
+    color: white;
+}
+.btn {
+    width: 70%;
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+}
+.panel > .panel-heading {
+    color: white;
+}
+.col-sm-6.col-sm-offset-3{
+    padding-top: 6%;
+}
+.panel-body {
+    background-color: Beige ;
+}
+.input-group.col-xs-7 {
+    padding-left: 8%;
+}
+.panel-heading{
+    text-align: center;
+    font-size: 25px;
+    background-color: #3e8e41;
+}
+#submitPatientButton:hover {
+    border-color: blue;
+    background-color: #ffffff;
+    color: blue;
+    font-weight: bold;
+}
+.alert {
+    display: none;
+}

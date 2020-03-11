@@ -1,0 +1,75 @@
+.sidenav {
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    background-color: #111;
+    padding-top: 30px;
+}
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+.background{
+    height: 100%;
+    width: 85%;
+    margin-left: 15%;
+    position: fixed;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url("https://t4.ftcdn.net/jpg/01/08/73/85/240_F_108738548_APV041nyY7usjrh15iQH22x8yEY7PzOP.jpg");
+    overflow-y: scroll;
+}
+.table{
+    width: 90%;
+}
+h1 {
+    width : 90%;
+    text-align: center;
+    font-size: 40px;
+    background-color: #111;
+    color: white;
+    padding-bottom: 7px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    padding-top: 100px; /* Location of the box */
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+  
+  /* Modal Content */
+  .modal-content {
+    background-color: slategray;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+  }
+  
+  /* The Close Button */
+  .close {
+    color: white;
+    position: absolute;
+    left: 97%;
+    top: 5px;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    cursor: pointer;
+  }

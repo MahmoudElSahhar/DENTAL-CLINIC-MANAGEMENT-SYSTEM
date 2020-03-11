@@ -1,0 +1,38 @@
+1)ajax////////////////////////////////////////////////////////////////////////////
+done 2)design
+done 3)continue Recep (add-edit-delete Doctor) (before 4)
+done 4)testing (2l23da)
+done 5)revisit database tables 
+done 6)revisit database functions
+
+///////////////////////////
+done M) add buttons to forward and backward calender M
+done 1)ability to open analysis and prescription M
+done 2)change add Inquiry to pop-up window M
+done 3)choose background M
+done 4)DoctorProfile design Y 
+done 6)MyAppointments at doctor Y
+done 7)change excuse form to table Y
+done 8)get appointment of today only in view appointment form Y
+done 9)adjust prescription and appointments tabel at doctor Y
+done 12)adjust sideNav at doctor and receptionist Y
+
+///////////////////////////////////
+
+DONE M)welcome page M
+DONE 10)send mail to cancel/confirm appoinment Y
+DONE 11)from8-5 and to 9-6 Y
+DONE 13)adjust validation for each text field in js file. M
+DONE 14)use pop-up windows in add prescription and excuse Y
+DONE 15)adjust sideNav in patient M
+DONE 18)add header for each page Y
+DONE 19) redesign sideNav M&Y
+DONE M)Presentation (on sunday M&Y)
+DONE 21)connect Add/edit/delete doctor to Daniel's doctorDisplayForm
+DONE 17)mail server M&Y
+///////////////////////////////////////////
+5)adjust button position-color-size M&Y
+M)check username with ajax (lma omar yrod)
+
+20)add Appointment at receptionist (right - left)
+22)adjust readSchedule at addAppointmentFrom when clicking right and left
